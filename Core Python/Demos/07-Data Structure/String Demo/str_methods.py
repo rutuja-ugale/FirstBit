@@ -1,0 +1,20 @@
+# s = 'FirstBit Solutions'
+# print(s.capitalize())
+# print(s.count('Bit'))
+# print(s.endswith('ions'))
+# print(s.find('Bit'))
+# print(s.index('rs'))
+# print(s.isalnum())
+# print(s.isalpha())
+# print(s.isdigit())
+# print(s.islower())
+# print(s.isspace())
+# print(s.isupper())
+# print('@'.join(['a','b','c']))
+# print(s.lower())
+# print(s.replace('Bit', 'Byte'))
+# print(s.split(' '))
+# print(s.startswith('Fir'))
+# s = '       [Fistbit]       '
+s = '["127.0.01","234.93.3","243.1.1"]'
+print(s.replace('"','').replace('[','').replace(']','').replace(',',''))
