@@ -1,0 +1,7 @@
+INSERT INTO student (id, name, age)
+VALUES
+(1, 'Rutuja', 21),
+(2, 'Kshitija', 22),
+(3, 'Priya', 20),
+(4, 'Sneha', 21),
+(5, 'Pooja', 23);
